@@ -1,0 +1,15 @@
+{
+  "background_color": "purple",
+  "description": "SI server home",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "/si_media/si_drip_logo_png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "SI server PWA",
+  "start_url": "/",
+  "id":"/"  
+}
